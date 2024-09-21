@@ -27,3 +27,7 @@ mat-card{
     align-items: center;
     
 }
+
+.sort-dropdown{
+    margin-left: 20px;
+}
